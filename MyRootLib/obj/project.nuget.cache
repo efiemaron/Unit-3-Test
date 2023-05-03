@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PD7+gFdOu11BvaaA/hbKtKOt4xeb9ib4Zuk/zac0SdLvWLbynnT0UOHts8M8npS4ECYS6HP1Q1TVDVaYS1d81Q==",
+  "success": true,
+  "projectFilePath": "/Users/efiemaronoparison/Desktop/MyRootLib/MyRootLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/efiemaronoparison/.nuget/packages/root/534.36.13/root.534.36.13.nupkg.sha512"
+  ],
+  "logs": []
+}

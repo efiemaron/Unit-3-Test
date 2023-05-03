@@ -1,0 +1,12 @@
+/Users/efiemaronoparison/Desktop/MyRootLib/bin/Debug/net7.0/MyRootLib.deps.json
+/Users/efiemaronoparison/Desktop/MyRootLib/bin/Debug/net7.0/MyRootLib.dll
+/Users/efiemaronoparison/Desktop/MyRootLib/bin/Debug/net7.0/MyRootLib.pdb
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.csproj.AssemblyReference.cache
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.AssemblyInfoInputs.cache
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.AssemblyInfo.cs
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.csproj.CoreCompileInputs.cache
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.dll
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/refint/MyRootLib.dll
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/MyRootLib.pdb
+/Users/efiemaronoparison/Desktop/MyRootLib/obj/Debug/net7.0/ref/MyRootLib.dll
